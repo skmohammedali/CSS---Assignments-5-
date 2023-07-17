@@ -1,0 +1,172 @@
+.wrapper{
+    text-align: center;
+    height: 160px;
+    padding: 10px;
+    background-color: rgb(92, 92, 92);
+    color: white;
+}
+#course{
+    border: 2px solid rgb(66, 66, 66) ;
+    padding: 10px;
+    text-decoration: none;
+    background: -webkit-gradient(linear,
+    left top, left bottom, from(rgb(22, 207, 167)), to(rgb(40, 162, 249)));
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.content img {
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 10px;
+}
+.content {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  height: 400px;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.content h1 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.content p {
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+a{
+  border: 1px solid black;
+  background-color: rgb(44, 150, 249);
+  color: white;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 12px;
+  margin-left: 70px;  
+}
+.right{
+    font-size: large;
+    border: 1px solid black;
+    margin-top: 20px;
+    height: 1050px;
+}
+.right{
+  display: flex;
+  padding: 10px;
+}
+.rightimg{
+    position: relative;
+    left: 35%;
+}
+#nodejs1{
+  margin-left: 60px;
+} 
+#nodejs2{
+  margin-left: 100px;
+}
+#nodejs3{
+  margin-left: 100px;
+}
+#nodejs4{
+ position:relative;
+ bottom: -500px;
+ left: -83%;
+}
+#nodejs5{
+  position:relative;
+  bottom: -500px;
+  right: 76%;
+ }
+
+ .left {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  height: 500px;
+  width: 500px;
+  margin-top: 20px;
+  margin-top: 40px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.left h1 {
+  font-size: 25px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.left img {
+  max-width: 450px;
+  height: auto;
+  margin-bottom: 10px;
+}
+.left a{
+  border: 1px solid black;
+  background: -webkit-gradient(linear,
+  left top, left bottom, from(rgb(40, 166, 249)), to(rgb(30, 241, 234)));
+  color: white;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-left: 0px; 
+}
+.left p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+#html1{
+  margin-left: 30px;
+}
+#html2{
+ margin-left: 58%;
+ margin-top: -37.5%;
+}
+#html3{
+  margin-left: 30px;
+  margin-top: 80px;
+}
+#html4{
+ margin-left: 58%;
+ margin-top: -37.5%;
+}
+.alert,button{
+width: 150px;
+height: 30px;
+margin-top: 10px;
+margin-left: 25%;
+border-radius: 6px;
+}
+button{
+  background: -webkit-gradient(linear,
+  left top, left bottom, from(rgb(44, 245, 141)), to(rgb(3, 166, 49)));
+color: white;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+cursor: pointer;
+}
+#enroll{
+  margin-top: 60px;
+  width: 100%;
+  border-radius: 0px;
+  position: relative;
+  top: -55px;
+  left: -25%;
+  background: -webkit-gradient(linear,
+  left top, left bottom, from(rgb(245, 44, 198)), to(rgb(216, 39, 239)));
+color: white;
+font-size: large;
+}
+.promo{
+  text-align: center;
+  margin-top: 60px;
+  height: 150px;
+  padding: 10px;
+  background-color: rgb(75, 75, 75);
+  color: white;
+}

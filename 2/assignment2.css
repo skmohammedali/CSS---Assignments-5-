@@ -1,0 +1,97 @@
+body{
+  background-color: aliceblue;
+}
+
+.header{
+  background-color: rgb(21, 21, 21);
+  color: white;
+  text-align: center;
+  height: 120px;
+}
+
+.grid_5 img{
+  margin-top: 10px;
+}
+.grid_7{
+  background-color: aqua;
+}
+.grid_7 a{
+  color: white;
+  padding: 40px;
+  text-decoration: solid;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.nav{
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 10px;
+  text-align: center;
+  text-decoration: solid ;
+  text-decoration: none;
+  margin-top: 30px;
+}
+h1{
+  text-align: center;
+  margin-top: 80px;
+  text-transform: uppercase;
+}
+h1 a{
+  text-decoration: none;
+}
+.main-story{
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  height: 130px;
+  width: 100%;
+}
+.date{
+  text-decoration: solid underline;
+  font-size: larger;
+}
+
+h2{
+  text-align: center;
+  margin-top: 80px;
+  text-transform: uppercase;
+  margin-bottom: 60px;
+  margin-top: 20px;
+}
+h2 a{
+  text-decoration: none;
+  color: black;
+  font-size: larger;
+}
+
+.grid_3 img{
+  display: inline;
+  margin-left: 10px;
+}
+
+#image1{
+  margin-left: 10px;
+}
+#image2{
+  margin-left: 27%;
+  margin-top: -16.5%;
+}
+#image3{
+  margin-left: 52%;
+  margin-top: -16.5%;
+}
+#image4{
+  margin-left: 78%;
+  margin-top: -16.5%;
+}
+p a{
+  color: black;
+}
+
+.footer{
+  background-color: black;
+  height: 30px;
+  padding: 10px;
+  margin-top: 50px;
+  text-align: center;
+}
+.footer a{
+  color: white;
+}
